@@ -24,6 +24,7 @@ class listener(StreamListener):
         printMetrics(NBClassifier, best_tfidf, interestLabels, "NBClassifier")
         print()
         print("Starting Live tweets")
+        print("Press Control+C to exit...")
 
     def on_status(self, status):
         tweet = str(status.text).lower()

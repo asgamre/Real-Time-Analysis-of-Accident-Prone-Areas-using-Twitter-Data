@@ -2,89 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd48ba0-b971-4685-84e2-e70cb0e8fcea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Connector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/IEEEtran.cls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/IEEEtran_HOWTO.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_adv.aux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_adv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_adv.synctex.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_adv.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_conf.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_conf_compsoc.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl.aux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl.bbl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl.blg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl.synctex.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl_compsoc.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl_comsoc.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/bare_jrnl_transmag.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/AccidentProne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/BE-Block-Diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/BernoulliModel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/BernoulliNBModel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/BlockDiag.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/CountTable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/FalsePositive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/FalsePositiveTweet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/FinalOutput.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/IMG-20160412-WA0010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/IMG-20160412-WA0011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/IndividualAccident.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/Locations.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/MultiNomialNBModel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/MultivsBernoulli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/MultivsBino.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/NBAssumptions.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/NonSituational.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/NonSituationalTweet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/PredictionEstimation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/Situational.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/SituationalTweet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/Training Data black book.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/TweetTable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/accuracy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/onetweet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/images/survey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEEEtran/project-ref.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/IRJET-V5I6355.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/Incident Detection Using Data from Social Media.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/1059168" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/13419635" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/1grams.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/2grams.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/3grams.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/ME_PvsR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/NBME_Accuracy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/NB_PvsR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/Ngrams_dist_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/Ngrams_dist_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/frameworks-08fc49d3bd2694c870ea23d0906f3610.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/frameworks-2eb634cfefb2aa74eb1cba618df67413.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/github-021b9b9c893801899f98b35bb47395b1.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/github-4d9ab9919c1f80062f9616df3655449f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/iitd_logo_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/negation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/octocat-spinner-128.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/octocat-spinner-32.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/schematic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/search-shortcut-hint.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/tweet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Papers/yogeshg_Twitter-Sentiment_ Sentiment Analysis of Twitter Feeds_files/zipfs_law.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classifiers/svm.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/classifiers/svm.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpus/corpusAccident.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpus/corpusCrash.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpus/corpusDallas.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python36path.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rough.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrape.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,12 +60,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="716" />
+          <entry key="py" value="817" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="716" />
+          <entry key="Python" value="817" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -166,12 +85,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Connector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="255">
+              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
-                <marker date="1544133982134" expanded="true" signature="1080:1085" ph="..." />
-                <marker date="1544133982134" expanded="true" signature="1114:1122" ph="..." />
+                <marker date="1544154849155" expanded="true" signature="1124:1129" ph="..." />
+                <marker date="1544154849155" expanded="true" signature="1158:1166" ph="..." />
               </folding>
             </state>
           </provider>
@@ -180,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+            <state relative-caret-position="-632">
+              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -201,8 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Credentials.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="102">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -235,21 +154,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/connector.py" />
-        <option value="$PROJECT_DIR$/Credentials.py" />
         <option value="$PROJECT_DIR$/accident.csv" />
         <option value="$PROJECT_DIR$/stringmatching.py" />
         <option value="$PROJECT_DIR$/targetwords.txt" />
         <option value="$PROJECT_DIR$/targetcities.txt" />
         <option value="$PROJECT_DIR$/dataset/tweetset.csv" />
         <option value="$PROJECT_DIR$/Preprocess.py" />
-        <option value="$PROJECT_DIR$/Classifier.py" />
-        <option value="$PROJECT_DIR$/Connector.py" />
         <option value="$PROJECT_DIR$/rough.py" />
         <option value="$PROJECT_DIR$/scrape.py" />
+        <option value="$PROJECT_DIR$/Classifier.py" />
+        <option value="$PROJECT_DIR$/Connector.py" />
+        <option value="$PROJECT_DIR$/Credentials.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -435,8 +354,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.28895184" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49966952" visible="true" weight="0.32152975" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.28895184" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49966952" weight="0.32152975" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -466,6 +385,11 @@
           <url>file://$PROJECT_DIR$/Preprocess.py</url>
           <line>7</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classifier.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -594,25 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Connector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <marker date="1544133982134" expanded="true" signature="1080:1085" ph="..." />
-            <marker date="1544133982134" expanded="true" signature="1114:1122" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -623,10 +528,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-632">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1544154849155" expanded="true" signature="1124:1129" ph="..." />
+            <marker date="1544154849155" expanded="true" signature="1158:1166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Credentials.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="102">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
         </state>
       </provider>
     </entry>
